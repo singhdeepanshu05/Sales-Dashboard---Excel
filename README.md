@@ -1,7 +1,7 @@
 # Sales-Dashboard---Excel
 Sales dashboard of various products which are sold over a particular interval of time
 
-![image](https://user-images.githubusercontent.com/62066175/187366383-313a29e2-d7cc-4a3e-a20d-9c50294edf8e.png)
+
 
 																													
 																													
