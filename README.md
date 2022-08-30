@@ -13,4 +13,11 @@ Sales(Quantity) across cities
 
 ![image](https://user-images.githubusercontent.com/62066175/187362147-8452cd04-99ea-4c71-b282-c8c7aa85be51.png)
 
+Sales by Various Sales Representative
+
+![image](https://user-images.githubusercontent.com/62066175/187362695-3c14c4dc-6e08-48e3-9034-1adf0f19d821.png)
+
+Sales across various categories
+![image](https://user-images.githubusercontent.com/62066175/187363193-148c30ca-c0f6-4ab5-b951-f8b96fd39455.png)
+
 
