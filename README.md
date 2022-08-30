@@ -2,6 +2,7 @@
 Sales dashboard of various products which are sold over a particular interval of time
 
 
+![image](https://user-images.githubusercontent.com/62066175/187378875-1c3ee1d6-76ef-449a-98cc-015a8b5bf677.png)
 
 																													
 																													
