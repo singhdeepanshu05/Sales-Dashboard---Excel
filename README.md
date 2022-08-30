@@ -18,6 +18,7 @@ Sales by Various Sales Representative
 ![image](https://user-images.githubusercontent.com/62066175/187362695-3c14c4dc-6e08-48e3-9034-1adf0f19d821.png)
 
 Sales across various categories
+
 ![image](https://user-images.githubusercontent.com/62066175/187363193-148c30ca-c0f6-4ab5-b951-f8b96fd39455.png)
 
 
