@@ -1,6 +1,14 @@
 # Sales-Dashboard---Excel
 Sales dashboard of various products which are sold over a particular interval of time
 
+![image](https://user-images.githubusercontent.com/62066175/187366383-313a29e2-d7cc-4a3e-a20d-9c50294edf8e.png)
+
+																													
+																													
+
+
+
+
 Monthly Sales across various cities
         
 ![image](https://user-images.githubusercontent.com/62066175/187359918-570fa402-49ba-4292-8895-418682cec203.png)
