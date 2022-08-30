@@ -21,4 +21,7 @@ Sales across various categories
 
 ![image](https://user-images.githubusercontent.com/62066175/187363193-148c30ca-c0f6-4ab5-b951-f8b96fd39455.png)
 
+Product wise Sales
+
+![image](https://user-images.githubusercontent.com/62066175/187363796-3fb5aa06-9395-4730-9ce2-435364d9b024.png)
 
