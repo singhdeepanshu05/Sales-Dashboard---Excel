@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard---Excel
+# Sales Analysis Dashboard
 Sales dashboard of various products which are sold over a particular interval of time
 
 
